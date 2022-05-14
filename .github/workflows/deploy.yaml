@@ -2,6 +2,7 @@ name: Deploy
 
 # Only when pushing to main
 on:
+  workflow_dispatch:
   push:
     branches: [ main ]
 
