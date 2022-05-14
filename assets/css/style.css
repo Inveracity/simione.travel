@@ -10,6 +10,7 @@
 --------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Roboto+Mono:wght@300&display=swap');
 
 body {
   font-family: 'Didact Gothic', sans-serif;
@@ -49,7 +50,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h6 {
-    font-family: "Consolas", sans-serif;
+    font-family: 'Roboto Mono', monospace;
     color: #c1350b;
 }
 
